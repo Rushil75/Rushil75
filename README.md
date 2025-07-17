@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushil75
 
-<!--
-**Rushil75/Rushil75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Developer** passionate about building intelligent systems and pushing the boundaries of machine learning and deep learning.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** Python
+- **Frameworks & Libraries:** TensorFlow, PyTorch, FastAPI
+- **Expertise:** Deep Learning, Neural Networks, AI Solutions, REST API Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 What I’m Currently Working On
+- Exploring cutting-edge advancements in AI and ML.
+- Building scalable AI-powered APIs with FastAPI.
+- Experimenting with novel neural network architectures.
+
+## 🤝 Let’s Connect!
+<!-- Add your social or professional links below -->
+<!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
+
+## 📝 Featured Projects
+<!-- Showcase your favorite projects here! 
+- [Project Name](project-link): Short description. 
 -->
+
+---
+
+_“Turning ideas into intelligent solutions.”_
