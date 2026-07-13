@@ -1,87 +1,86 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Rushil%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Generative%20AI%20•%20Backend%20Systems&descAlignY=55&descSize=18" />
+<!-- ⚡ DARK NEON HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:00d9ff&height=220&section=header&text=RUSHIL%20VERMA&fontSize=65&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20•%20GENERATIVE%20AI%20•%20BACKEND%20SYSTEMS%20⚡&descAlignY=58&descSize=16&descColor=8be9fd" />
 
-<!-- Animated Typing Intro -->
+<!-- Matrix-style typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+actually+ships;⚡+RAG+Pipelines+%7C+LLM+Chatbots+%7C+Voice+AI;🚀+FastAPI+%2B+LangChain+%2B+OpenAI+%2B+n8n;🧠+Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Building+AI+that+actually+ships...;%3E+RAG+Pipelines+%7C+LLM+Chatbots+%7C+Voice+AI;%3E+FastAPI+%2B+LangChain+%2B+OpenAI+%2B+n8n;%3E+sudo+deploy+intelligence+--scale" alt="Typing SVG" />
 </p>
 
-<!-- Social Badges -->
+<!-- Neon badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"></a>
-  <a href="mailto:rushilverma7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"></a>
-  <img src="https://komarev.com/ghpvc/?username=Rushil75&label=Visitors&color=8E2DE2&style=for-the-badge" alt="visitors" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000&color=0d1117"></a>
+  <a href="mailto:rushilverma7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0d1117"></a>
+  <img src="https://komarev.com/ghpvc/?username=Rushil75&label=VISITORS&color=blueviolet&style=for-the-badge" alt="visitors" />
 </p>
 
 <br>
 
-<!-- About Me with animated gif -->
+<!-- About with terminal aesthetic -->
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-## 🧑‍🚀 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> whoami
 
-```python
-class RushilVerma:
-    def __init__(self):
-        self.role = "AI Engineer @ Soft Radix"
-        self.location = "Mohali, Punjab 🇮🇳"
-        self.education = "MCA • GPA 8.9/10"
-        self.building = ["RAG Pipelines", "LLM Chatbots",
-                         "Voice AI", "Automation Engines"]
-        self.daily_fuel = ["Python", "FastAPI", "OpenAI", "☕"]
-
-    def current_mission(self):
-        return "Shipping AI systems that scale 🚀"
+```bash
+┌──(rushil㉿ai-engineer)-[~/mission]
+└─$ cat profile.json
+{
+  "role":      "AI Engineer @ Soft Radix",
+  "location":  "Mohali, Punjab, IN",
+  "education": "MCA • GPA 8.9/10",
+  "building":  ["RAG Pipelines", "LLM Chatbots",
+                "Voice AI", "Automation Engines"],
+  "stack":     ["Python", "FastAPI", "OpenAI",
+                "LangChain", "n8n", "Docker"],
+  "status":    "shipping_intelligence 🟢"
+}
 ```
 
-- 🔭 Architecting **multi-tenant AI SaaS platforms** & real-time analytics chatbots
+- ⚡ Architecting **multi-tenant AI SaaS platforms** & real-time analytics chatbots
 - 🧠 Deep in **LangChain · FAISS · PGVector · Prompt Engineering**
 - 🎙️ Building **multilingual voice assistants** with Vapi + RAG
-- 👨‍🏫 Mentoring interns on backend craft & code reviews
+- 👨‍💻 Mentoring interns on backend craft & code reviews
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### ⌨️ Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,html,css&theme=dark" />
 
 ### 🤖 AI / GenAI
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge">
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge">
-<img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00F5FF">
+<img src="https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge&logoColor=00F5FF">
+<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=00F5FF">
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=39FF14">
+<img src="https://img.shields.io/badge/PGVector-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14">
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logoColor=BD00FF">
 
 ### 🛠️ Backend, DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,aws,jenkins,git,github&theme=dark" />
 
 ### 🔄 Automation & Scraping
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Vapi-00C853?style=for-the-badge">
-<img src="https://img.shields.io/badge/GoHighLevel-1E88E5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71">
+<img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=39FF14">
+<img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logoColor=00F5FF">
+<img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=2EAD33">
+<img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A">
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌟 Featured Projects
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 Real-Time Analytics Chatbot
-`FastAPI` `OpenAI` `WebSockets` `RAG`
+![](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi) ![](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai) ![](https://img.shields.io/badge/-WebSockets-0d1117?style=flat-square) ![](https://img.shields.io/badge/-RAG-0d1117?style=flat-square)
 
 Secure, **role-based** (Admin/Agent/Client) chatbot with RAG-powered, context-aware responses over optimized REST + WebSocket APIs.
 
@@ -89,7 +88,7 @@ Secure, **role-based** (Admin/Agent/Client) chatbot with RAG-powered, context-aw
 <td width="50%">
 
 ### 🛡️ Unscammy — Scam Protection
-`FastAPI` `Playwright` `Celery` `Docker` `n8n`
+![](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi) ![](https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&logo=playwright) ![](https://img.shields.io/badge/-Celery-0d1117?style=flat-square) ![](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker) ![](https://img.shields.io/badge/-n8n-0d1117?style=flat-square&logo=n8n)
 
 Full backend for a **multi-module scam protection platform**: LLM chatbots, voice reporting, phishing simulation & data-broker removal automation.
 
@@ -99,15 +98,15 @@ Full backend for a **multi-module scam protection platform**: LLM chatbots, voic
 <td width="50%">
 
 ### 📊 Auditor Alpha — Revenue Audit AI
-`n8n` `PostgreSQL` `PGVector` `OpenAI`
+![](https://img.shields.io/badge/-n8n-0d1117?style=flat-square&logo=n8n) ![](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/-PGVector-0d1117?style=flat-square) ![](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai)
 
-Architected the system + AI audit engine using **multi-method matching** (ID, semantic embeddings, heuristics) to detect revenue leakage across CRM & accounting platforms.
+System architecture + AI audit engine using **multi-method matching** (ID, semantic embeddings, heuristics) to detect revenue leakage across CRM & accounting platforms.
 
 </td>
 <td width="50%">
 
 ### 🌐 Multilingual Voice & Chat Assistant
-`OpenAI` `Vapi` `RAG` `FastAPI`
+![](https://img.shields.io/badge/-OpenAI-0d1117?style=flat-square&logo=openai) ![](https://img.shields.io/badge/-Vapi-0d1117?style=flat-square) ![](https://img.shields.io/badge/-RAG-0d1117?style=flat-square) ![](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi)
 
 **Multilingual AI voice + chat support** integrated into a live product — RAG knowledge base of product policies resolving issues in real time.
 
@@ -117,7 +116,7 @@ Architected the system + AI audit engine using **multi-method matching** (ID, se
 <td width="50%">
 
 ### 📈 Insurance CRM Automation
-`GoHighLevel`
+![](https://img.shields.io/badge/-GoHighLevel-0d1117?style=flat-square)
 
 CRM workflows, lead pipelines & **intelligent multi-region lead assignment** logic for an insurance product.
 
@@ -125,7 +124,7 @@ CRM workflows, lead pipelines & **intelligent multi-region lead assignment** log
 <td width="50%">
 
 ### 🔗 Leads That Work — LinkedIn Automation
-`Python` `Playwright` `Selenium`
+![](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) ![](https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&logo=playwright) ![](https://img.shields.io/badge/-Selenium-0d1117?style=flat-square&logo=selenium)
 
 Automated **LinkedIn lead generation & engagement** with secure multi-profile management and personalized outreach.
 
@@ -135,9 +134,10 @@ Automated **LinkedIn lead generation & engagement** with secure multi-profile ma
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Journey So Far
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Journey
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0d1117','primaryTextColor':'#00F5FF','lineColor':'#39FF14'}}}%%
 timeline
     title Career Timeline
     2023 : Started MCA @ CGC Landran
@@ -151,39 +151,38 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushil75&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushil75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushil75&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=39FF14&text_color=c9d1d9&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushil75&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushil75&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushil75&hide_border=true&background=000000&stroke=00F5FF&ring=39FF14&fire=BD00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushil75&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=8E2DE2&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushil75&bg_color=000000&color=00F5FF&line=39FF14&point=BD00FF&area=true&area_color=0f0c29&hide_border=true" width="95%" />
 </p>
 
-<!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushil75&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rushil75&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<!-- Contribution Snake Animation -->
+<!-- Snake eats commits — dark version -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rushil75/Rushil75/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Quote -->
+<!-- Random dev quote, dark -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<h3 align="center">💜 "Turning ideas into intelligent solutions."</h3>
+<h3 align="center">⚡ "Turning ideas into intelligent solutions." ⚡</h3>
 
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+<!-- Neon footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0f0c29,100:000000&height=140&section=footer" />
