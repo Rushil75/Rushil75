@@ -8,7 +8,7 @@
 
 <!-- Neon badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000&color=0d1117"></a>
+  <a href="https://www.linkedin.com/in/rushilverma/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000&color=0d1117"></a>
   <a href="mailto:rushilverma7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000&color=0d1117"></a>
   <img src="https://komarev.com/ghpvc/?username=Rushil75&label=VISITORS&color=blueviolet&style=for-the-badge" alt="visitors" />
 </p>
